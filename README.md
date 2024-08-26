@@ -5,7 +5,6 @@ welcome to github
 ## subheaders
 
 tutorial on Youtube.
+## local development
 
-## local developer
-
-1. open index.hmtl in your browser
+1. open index.html in your browser 
